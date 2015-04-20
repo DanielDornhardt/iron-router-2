@@ -1,3 +1,8 @@
+1.0.8 / 2015-04-20
+==================
+  * Take Meteor ROOT_URL - setting into account when generating URLs.
+  * Update iron:url package dependency version to take the Meteor ROOT_URL into account as well when generating URLs
+  
 1.0.6 / 2014-12-18
 ==================
   * roll back a change that resulted in re-rendering templates on every route
